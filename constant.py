@@ -1,1 +1,1 @@
-pplx_api_key = "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"
+pplx_api_key = "your api key"
