@@ -28,4 +28,4 @@ It acts like an **AI-powered Q&A assistant** for exploring information about peo
 
 ---
 
-## 📂 Project Structure  
+
