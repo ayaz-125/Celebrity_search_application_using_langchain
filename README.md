@@ -28,4 +28,5 @@ It acts like an **AI-powered Q&A assistant** for exploring information about peo
 
 ---
 
+![Screenshot 2025-09-02 235736](https://github.com/user-attachments/assets/913de784-1e0f-4937-b7a9-c5a6757726c1)
 
